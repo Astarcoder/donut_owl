@@ -3,3 +3,8 @@ h1 {
 font-size: 80px;
 color:#800080;
 }
+p {
+  font-family: 'Josefin Slab', serif;
+  font-size: 50px;
+  color: #000080
+}
