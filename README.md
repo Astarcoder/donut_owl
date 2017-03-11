@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
  <html>
    <head>
      
@@ -8,7 +8,7 @@
    <body>
      <h1>Owls and Donuts.
      </h1>
-     <p>This is my website. XD
+     <p>Welcome to my website.  I hope you enjoy it!
     </p>
     <iframe src="https://www.codesters.com/embed/preview/eb355460bbe64ee2ac417ec62d1e4b67/" height="680" width="500"></iframe>
     <img src="http://dreamicus.com/data/owl/owl-02.jpg" height="540" width="670"/>
