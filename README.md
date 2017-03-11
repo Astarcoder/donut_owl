@@ -19,7 +19,7 @@
        <p>In case you haven't noticed, I LOVE owls and donuts.
        </p>
          <img src="http://weknowmemes.com/wp-content/uploads/2012/05/i-saw-a-carrot-this-big-no-lie-bunny-meme.jpg">
-    <img src="https://s-media-cache-ak0.pinimg.com/originals/b9/cd/8a/b9cd8a284692a54395ea079fd1eead5f.jpg"">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/b9/cd/8a/b9cd8a284692a54395ea079fd1eead5f.jpg">
    </body>
    
 </html>
