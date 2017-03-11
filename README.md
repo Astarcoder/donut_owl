@@ -8,7 +8,7 @@
    <body>
      <h1>Owls and Donuts.
      </h1>
-     <p>Welcome to my website.  I hope you enjoy it!
+     <p>Welcome to my website.  I hope you enjoy it!  Click the button below to go to my other page.
      </p>
      <button type="button" onclick="location.href='https://astarcoder.github.io/donut_owl/home.html'">Owl_Donut</button>
    <br/>
