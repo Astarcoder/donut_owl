@@ -22,5 +22,6 @@
     <img src="https://s-media-cache-ak0.pinimg.com/originals/b9/cd/8a/b9cd8a284692a54395ea079fd1eead5f.jpg">
    </body>
    <img src="http://img.memecdn.com/owl_o_357780.jpg">
+   <img src="https://www.enjoymedia.ch/images/sommer/donut_strandtuch_02.jpg">
    
 </html>
