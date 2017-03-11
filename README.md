@@ -9,8 +9,7 @@
      <h1>Owls and Donuts.
      </h1>
      <p>Welcome to my website.  I hope you enjoy it!
-    </p>
-    <button type="button" Onclick=" alert('Hello')" >Hello</button>
+     </p>
     <a href="https://scratch.mit.edu/users/astarcoder/">My Projects on Scratch.</a>
     <br/>
     <br/>
