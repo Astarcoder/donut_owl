@@ -10,7 +10,7 @@
      </h1>
      <p>Welcome to my website.  I hope you enjoy it!  Click the button below to go to my other page.
      </p>
-     <button type="button" style="height:40px;width:80px"onclick="location.href='https://astarcoder.github.io/donut_owl/home.html'">BUTTON</button>
+     <button type="button"style="height:40px;width:80px"onclick="location.href='https://astarcoder.github.io/donut_owl/home.html'">BUTTON</button>
    <br/>
     <a href="https://scratch.mit.edu/users/astarcoder/">My Projects on Scratch.</a>
     <br/>
