@@ -8,11 +8,12 @@
    <body>
      <h1>Owls and Donuts.
      </h1>
-     <p>Welcome to my website.  I hope you enjoy it!  Click the button below to go to my other page.
+     <p>Welcome to my website.  I hope you enjoy it!  Click the button below to go to my other pages.
      </p>
      <img src="https://www.landon.net/uploaded/photos/bear_blog/2015-16/April/Will-Owl-1200.jpg">
      <a href="https://astarcoder.github.io/donut_owl/home.html"><button>BUTTON</button></a>
    <br/>
+   <a href="https://astarcoder.github.io/donut_owl/owl_gifs"><button>Owl GIFs</button></a>
     <a href="https://scratch.mit.edu/users/astarcoder/">My Projects on Scratch.</a>
     <br/>
     <a href="https://storybird.com/members/Astary/">My Writing on Storybird.</a>
