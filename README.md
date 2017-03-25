@@ -17,15 +17,15 @@
     <br/>
     <a href="https://storybird.com/members/Astary/">My Writing on Storybird.</a>
     <br/>
-    <iframe src="https://www.codesters.com/embed/preview/eb355460bbe64ee2ac417ec62d1e4b67/" height="300"></iframe>
-    <img src="http://www.caciquetribe.com/wp-content/uploads/2015/09/tumblr_static_wf-donuts-1.jpg" height="200">
+    <iframe src="https://www.codesters.com/embed/preview/eb355460bbe64ee2ac417ec62d1e4b67/"></iframe>
+    <img src="http://www.caciquetribe.com/wp-content/uploads/2015/09/tumblr_static_wf-donuts-1.jpg">
        <p>In case you haven't noticed, I LOVE owls and donuts.
        </p>
-         <img src="http://weknowmemes.com/wp-content/uploads/2012/05/i-saw-a-carrot-this-big-no-lie-bunny-meme.jpg"height=200>
-    <img src="https://s-media-cache-ak0.pinimg.com/originals/b9/cd/8a/b9cd8a284692a54395ea079fd1eead5f.jpg"height=200>
+         <img src="http://weknowmemes.com/wp-content/uploads/2012/05/i-saw-a-carrot-this-big-no-lie-bunny-meme.jpg">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/b9/cd/8a/b9cd8a284692a54395ea079fd1eead5f.jpg">
    </body>
-   <img src="http://img.memecdn.com/owl_o_357780.jpg"height=200>
-   <img src="https://www.enjoymedia.ch/images/sommer/donut_strandtuch_02.jpg"height=200>
-   <img src="http://pepperscraps.com/wp-content/uploads/2016/02/Owl-Donuts_2-e1455216130335.jpg"height=200>
+   <img src="http://img.memecdn.com/owl_o_357780.jpg">
+   <img src="https://www.enjoymedia.ch/images/sommer/donut_strandtuch_02.jpg">
+   <img src="http://pepperscraps.com/wp-content/uploads/2016/02/Owl-Donuts_2-e1455216130335.jpg">
    
 </html>
