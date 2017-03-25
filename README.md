@@ -10,14 +10,15 @@
      </h1>
      <p>Welcome to my website.  I hope you enjoy it!  Click the button below to go to my other page.
      </p>
-     <img src="https://www.landon.net/uploaded/photos/bear_blog/2015-16/April/Will-Owl-1200.jpg" height=160>
+     <img src="https://www.landon.net/uploaded/photos/bear_blog/2015-16/April/Will-Owl-1200.jpg">
      <a href="https://astarcoder.github.io/donut_owl/home.html"><button>BUTTON</button></a>
    <br/>
     <a href="https://scratch.mit.edu/users/astarcoder/">My Projects on Scratch.</a>
     <br/>
     <a href="https://storybird.com/members/Astary/">My Writing on Storybird.</a>
+    <img src="https://media.giphy.com/media/Yl8cYI66NzOuY/giphy.gif">
     <br/>
-    <iframe src="https://www.codesters.com/embed/preview/eb355460bbe64ee2ac417ec62d1e4b67/"></iframe>
+    <iframe src="https://www.codesters.com/embed/preview/eb355460bbe64ee2ac417ec62d1e4b67/"height=></iframe>
     <img src="http://www.caciquetribe.com/wp-content/uploads/2015/09/tumblr_static_wf-donuts-1.jpg">
        <p>In case you haven't noticed, I LOVE owls and donuts.
        </p>
